@@ -1,0 +1,47 @@
+_repo: Bow-Wow-and-Mew-Mew_44914
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hodge, Helen Geraldine
+    gutenberg_agent_id: '41789'
+    url: http://www.gutenberg.org/2009/agents/41789
+covers:
+- cover_type: archival
+  image_path: 44914-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Craik, Georgiana M. (Georgiana Marion)
+    alias: May, Georgiana Marion Craik
+    birthdate: 1831
+    deathdate: 1895
+    gutenberg_agent_id: '42987'
+    url: http://www.gutenberg.org/2009/agents/42987
+  editor:
+    agent_name: Sindelar, Joseph C. (Joseph Charles)
+    aliases:
+    - Sindelar, Jos. C. (Joseph Charles)
+    - Sindelar, Joseph Charles
+    birthdate: 1885
+    gutenberg_agent_id: '42109'
+    url: http://www.gutenberg.org/2009/agents/42109
+description: ''
+gutenberg_issued: '2014-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Farm life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcsh 'Readers'
+- !lcsh 'Dogs -- Juvenile fiction'
+title: Bow-Wow and Mew-Mew
+url: http://www.gutenberg.org/ebooks/44914
